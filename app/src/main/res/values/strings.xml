@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">troca-telas</string>
+    <string name="am_btn_novo_registro">Lançar novo Registro</string>
+    <string name="codigoProduto">Código:</string>
+    <string name="quantidade">Quantidade:</string>
+    <string name="valor">Valor:</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="listar">Listar</string>
+</resources>
