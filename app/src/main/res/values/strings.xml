@@ -6,4 +6,6 @@
     <string name="valor">Valor:</string>
     <string name="confirmar">Confirmar</string>
     <string name="listar">Listar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="enviar">Enviar</string>
 </resources>

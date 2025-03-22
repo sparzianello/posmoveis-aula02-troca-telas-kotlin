@@ -52,12 +52,16 @@
             android:layout_width="125dp"
             android:layout_height="wrap_content"
             android:text="@string/confirmar"
+            android:onClick="btnConfirmarRegistroOnClick"
+            android:layout_marginEnd="2.5dp"
             android:id="@+id/btnConfirmar"/>
 
         <Button
             android:layout_width="125dp"
             android:layout_height="wrap_content"
             android:text="@string/listar"
+            android:onClick="btnListarOnClick"
+            android:layout_marginStart="2.5dp"
             android:id="@+id/btnListar"/>
 
     </LinearLayout>

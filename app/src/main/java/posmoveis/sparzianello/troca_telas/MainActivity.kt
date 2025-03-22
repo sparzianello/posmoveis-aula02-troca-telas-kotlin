@@ -14,8 +14,5 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 
-    fun btnNovoRegistroOnClick(view: View) {
-        val intent = Intent(this, FormLancamentoActivity::class.java)
-        startActivity(intent)
-    }
+    fun btnNovoRegistroOnClick(view: View)  { startActivity(Intent(this, FormLancamentoActivity::class.java)) }
 }
